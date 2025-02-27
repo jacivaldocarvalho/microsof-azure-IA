@@ -74,7 +74,8 @@
 
 JSOn completo usado.
 
-```json   {
+```json   
+{
   "input_data": {
     "columns": [
       "day",
@@ -103,7 +104,7 @@ Nesse Laboratório, usamos um conjunto de dados históricos de aluguel de bicicl
 ### Erro ao criar um ponto de extremidade on-line gerenciado no Azure Machine Learning Studio.
 
  <figure style="text-align: center;">
-    <img src="./figure/figure0-ResourceOperationFailure.png" alt="rceOperationFailure" width="600" height="200">
+    <img src="./figure/figure0-ResourceOperationFailure.png" alt="rceOperationFailure" width="600" height="300">
     <figcaption> rceOperationFailure.</figcaption>
 </figure>
 
